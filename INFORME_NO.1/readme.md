@@ -10,11 +10,11 @@ Esta carpeta contiene el material correspondiente al **Informe No. 1** del curso
 
 ---
 
-## 🎥 Video Tutorial
+##  Video Tutorial
 
 En el siguiente video se muestra el proceso de **desensamblaje, mantenimiento preventivo, limpieza y ensamblaje** de una **Laptop HP 15 Notebook PC**, siguiendo las buenas prácticas de manipulación de hardware y las medidas de seguridad recomendadas.
 
-**📺 Haz clic en la imagen para ver el videotutorial en YouTube.**
+** Haz clic en la imagen para ver el videotutorial en YouTube.**
 
 [![Video Tutorial - Mantenimiento e Infraestructura de Hardware](https://img.youtube.com/vi/5W5Y1E_3MuQ/maxresdefault.jpg)](https://youtu.be/5W5Y1E_3MuQ)
 
