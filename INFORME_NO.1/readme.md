@@ -6,7 +6,7 @@
 
 ## Objetivo
 
-Este repositorio contiene el material correspondiente al **Informe No. 1** del curso de **Prácticas Iniciales**, enfocado en el mantenimiento preventivo de una computadora portátil y la elaboración de la documentación requerida para el proyecto.
+Esta carpeta contiene el material correspondiente al **Informe No. 1** del curso de **Prácticas Iniciales**, enfocado en el mantenimiento preventivo de una computadora portátil y la elaboración de la documentación requerida para el proyecto.
 
 ## Contenido
 
@@ -16,7 +16,7 @@ Este repositorio contiene el material correspondiente al **Informe No. 1** del c
 - 🤖 Evidencia de Prompts
 
 
-## Equipo
+## Integrante
 
 **Nombre:** Yessenia Crystabel Mazariegos Carranza
 
