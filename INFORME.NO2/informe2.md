@@ -1,6 +1,7 @@
 # Proyecto de Virtualización y Redes
 
 ## Descripción
+ESTUDIANTE: Yessenia Crystabel Mazariegos Carranza 202503403
 
 Este proyecto presenta dos videos prácticos relacionados con la instalación, configuración y comunicación de sistemas GNU/Linux y Windows. Se documentan los procedimientos realizados, las herramientas utilizadas y los principales problemas encontrados durante el desarrollo de las prácticas.
 
