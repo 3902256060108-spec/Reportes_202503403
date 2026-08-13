@@ -7,7 +7,7 @@ Este proyecto presenta dos videos prácticos relacionados con la instalación, c
 
 ---
 
-# 🎥 Video 1: Instalación y Configuración de GNU/Linux
+# Video 1: Instalación y Configuración de GNU/Linux
 
 ### Instalación y Configuración de Ubuntu 26.04 LTS en VirtualBox
 
@@ -15,7 +15,7 @@ Este proyecto presenta dos videos prácticos relacionados con la instalación, c
   <img src="https://img.youtube.com/vi/nn9Dk8Clib4/maxresdefault.jpg" alt="Miniatura Video 1" width="700">
 </a>
 
-▶️ **[Ver Video 1 en YouTube](https://youtu.be/nn9Dk8Clib4?si=DuZpG11gH6z_hnYH)**
+ **[Ver Video 1 en YouTube](https://youtu.be/nn9Dk8Clib4?si=DuZpG11gH6z_hnYH)**
 
 ### Contenido
 
@@ -36,7 +36,7 @@ Se incluyen:
 
 ---
 
-# 🌐 Video 2: Configuración de Redes Heterogéneas
+#  Video 2: Configuración de Redes Heterogéneas
 
 ### Configuración y Validación de Redes Windows ↔ Ubuntu
 
@@ -44,7 +44,7 @@ Se incluyen:
   <img src="https://img.youtube.com/vi/OWMZO-5bzEA/maxresdefault.jpg" alt="Miniatura Video 2" width="700">
 </a>
 
-▶️ **[Ver Video 2 en YouTube](https://youtu.be/OWMZO-5bzEA)**
+ **[Ver Video 2 en YouTube](https://youtu.be/OWMZO-5bzEA)**
 
 ### Contenido
 
@@ -71,7 +71,7 @@ Se incluyen:
 
 ---
 
-# 📝 Bitácora de Problemas Encontrados
+#  Bitácora de Problemas Encontrados
 
 ## Video 1 — Instalación y Configuración de Ubuntu
 
